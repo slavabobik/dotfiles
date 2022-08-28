@@ -1,0 +1,5 @@
+brew "vim"
+brew "go"
+brew "fish"
+brew "fzf"
+
