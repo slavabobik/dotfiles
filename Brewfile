@@ -1,5 +1,8 @@
 brew "vim"
+brew "protobuf"
 brew "go"
 brew "fish"
 brew "fzf"
 brew "gitui"
+brew "pkg-config"
+brew "ripgrap"
