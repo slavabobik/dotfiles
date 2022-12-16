@@ -1,6 +1,7 @@
 brew "vim"
-brew "protobuf"
 brew "go"
 brew "fish"
 brew "fzf"
 brew "ripgrep"
+brew "nvim"
+brew "tmux"
