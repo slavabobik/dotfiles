@@ -28,6 +28,7 @@ shell:
 key_bindings:
   - { key: D,        mods: Command,       chars: "\x06\x76" } # split vertival
   - { key: D,        mods: Command|Shift, chars: "\x06\x73" } # split horizontal
+  - { key: W,        mods: Command,       chars: "\x06\x78" } # kill pane
   - { key: H,        mods: Command,       chars: "\x06\x68" } # move between panes
   - { key: J,        mods: Command,       chars: "\x06\x6a" }
   - { key: K,        mods: Command,       chars: "\x06\x6b" }
@@ -42,3 +43,4 @@ key_bindings:
   - { key: Key7,     mods: Command,       chars: "\x06\x37" }
   - { key: Key8,     mods: Command,       chars: "\x06\x38" }
   - { key: Key9,     mods: Command,       chars: "\x06\x39" }
+
