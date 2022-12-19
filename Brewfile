@@ -1,0 +1,8 @@
+brew "vim"
+brew "go"
+brew "fish"
+brew "fzf"
+brew "ripgrep"
+brew "nvim"
+brew "tmux"
+brew "tree"

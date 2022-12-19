@@ -1,0 +1,46 @@
+import:
+  - "/Users/slavabobik/.config/alacritty/nord.yml"
+
+shell:
+  program: /opt/homebrew/bin/fish
+
+window:
+  # My display bigger than yours (32 inch)   
+  dimensions:
+    columns: 340
+    lines: 95
+
+
+font:
+  size: 16.0
+
+live_config_reload: true
+
+shell:
+  program: /opt/homebrew/bin/tmux
+  args: 
+    - new-session
+    - -A
+    - -D
+    - -s
+    - main
+
+key_bindings:
+  - { key: D,        mods: Command,       chars: "\x06\x76" } # split vertival
+  - { key: D,        mods: Command|Shift, chars: "\x06\x73" } # split horizontal
+  - { key: W,        mods: Command,       chars: "\x06\x78" } # kill pane
+  - { key: H,        mods: Command,       chars: "\x06\x68" } # move between panes
+  - { key: J,        mods: Command,       chars: "\x06\x6a" }
+  - { key: K,        mods: Command,       chars: "\x06\x6b" }
+  - { key: L,        mods: Command,       chars: "\x06\x6c" }
+  - { key: T,        mods: Command,       chars: "\x06\x63" } # open new tab
+  - { key: Key1,     mods: Command,       chars: "\x06\x31" } # select tab by number
+  - { key: Key2,     mods: Command,       chars: "\x06\x32" }
+  - { key: Key3,     mods: Command,       chars: "\x06\x33" }
+  - { key: Key4,     mods: Command,       chars: "\x06\x34" }
+  - { key: Key5,     mods: Command,       chars: "\x06\x35" }
+  - { key: Key6,     mods: Command,       chars: "\x06\x36" }
+  - { key: Key7,     mods: Command,       chars: "\x06\x37" }
+  - { key: Key8,     mods: Command,       chars: "\x06\x38" }
+  - { key: Key9,     mods: Command,       chars: "\x06\x39" }
+
