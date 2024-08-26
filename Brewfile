@@ -6,6 +6,7 @@ brew 'zoxide'
 brew 'jq'
 brew 'zsh-autosuggestions'
 brew 'zsh-autocomplete'
+brew 'zsh-syntax-highlighting'
 brew 'fish'
 brew 'tree'
 
@@ -20,3 +21,5 @@ brew 'neovim'
 
 brew 'go'
 brew 'rust'
+
+cask 'raycast'
