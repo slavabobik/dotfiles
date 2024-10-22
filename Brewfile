@@ -12,6 +12,7 @@ brew 'tree'
 brew 'lazygit'
 brew 'difftastic'
 brew 'git-delta'
+brew 'ruff'
 
 brew 'duckdb'
 
