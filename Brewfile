@@ -9,13 +9,15 @@ brew 'zsh-autocomplete'
 brew 'zsh-syntax-highlighting'
 brew 'fish'
 brew 'tree'
+brew 'lazygit'
+brew 'difftastic'
+brew 'git-delta'
 
 brew 'duckdb'
 
 cask 'wezterm'
 cask 'warp'
 
-cask 'visual-studio-code'
 cask 'zed'
 brew 'neovim'
 
