@@ -20,7 +20,7 @@ brew 'duckdb'
 
 brew 'ghostty'
 #cask 'wezterm'
-cask 'warp'
+#cask 'warp'
 
 cask 'zed'
 brew 'neovim'
