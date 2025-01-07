@@ -13,10 +13,13 @@ brew 'lazygit'
 brew 'difftastic'
 brew 'git-delta'
 brew 'ruff'
+brew 'rust-analyzer'
+brew 'websocat'
 
 brew 'duckdb'
 
-cask 'wezterm'
+brew 'ghostty'
+#cask 'wezterm'
 cask 'warp'
 
 cask 'zed'
