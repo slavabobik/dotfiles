@@ -11,6 +11,7 @@ brew 'difftastic'
 brew 'git-delta'
 brew 'ruff'
 brew 'rust-analyzer'
+brew 'uv'
 
 brew 'duckdb'
 
