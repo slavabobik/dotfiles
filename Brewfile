@@ -24,5 +24,5 @@ brew 'rust'
 
 cask 'raycast'
 
-cask 'claude'
+cask 'claude-code'
 cask 'codex'
