@@ -11,6 +11,7 @@ brew 'git-delta'
 brew 'ruff'
 brew 'rust-analyzer'
 brew 'uv'
+brew 'jj'
 
 brew 'duckdb'
 
