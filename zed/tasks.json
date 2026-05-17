@@ -1,0 +1,10 @@
+[
+  {
+    "label": "go run main",
+    "command": "go run .",
+    "cwd": "$ZED_DIRNAME",
+    "use_new_terminal": false,
+    "allow_concurrent_runs": false,
+    "reveal": "always"
+  }
+]

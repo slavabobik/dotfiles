@@ -23,6 +23,10 @@ cask 'zed'
 brew 'go'
 brew 'rust'
 
+brew 'kind'
+brew 'helm'
+brew 'k9s'
+
 cask 'raycast'
 
 cask 'claude-code'

@@ -1,0 +1,8 @@
+[
+  {
+    "context": "vim_mode == normal",
+    "bindings": {
+      ", r": ["task::Spawn", { "task_name": "go run main" }]
+    }
+  }
+]
